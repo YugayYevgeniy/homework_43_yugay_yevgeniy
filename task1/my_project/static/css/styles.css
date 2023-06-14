@@ -1,0 +1,33 @@
+body {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.container {
+    font-size: 16pt;
+}
+
+.input-box {
+    text-align: right;
+    width: 400px;
+    height: 50px;
+}
+
+.radio {
+    display: block;
+}
+
+.radio-box {
+    padding-left: 215px;
+}
+
+.button {
+    font-size: 16pt;
+}
+
+.result {
+    font-size: 20pt;
+    margin-left: 70px;
+}
+
+
